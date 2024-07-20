@@ -1,0 +1,8 @@
+name: Micra_Fourteen
+version: '${version}'
+main: plugin.micra_fourteen.Main
+api-version: '1.20'
+commands:
+  setMagic:
+    description: "魔法"
+
