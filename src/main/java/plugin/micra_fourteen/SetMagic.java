@@ -75,7 +75,7 @@ public class SetMagic implements CommandExecutor {
           }
         } else {
           player.sendMessage(
-              ChatColor.RED + "召喚タイプを指定してください。例: /magic summon golem");
+              ChatColor.RED + "召喚タイプを指定してください。例: /setmagic summon golem");
         }
         break;
 
