@@ -4,7 +4,7 @@ main: plugin.micra_fourteen.Main
 api-version: '1.20'
 commands:
   setMagic:
-    description: "「/setmagic　魔法コマンド名(引数)」のコマンドを使って、以下の魔法が使用可能です"
+    description: "「/setmagic　魔法コマンド名(引数)」のコマンドを使って、以下の魔法が使用可能です"」
 
                 "・魔法コマンド名一覧"
 
